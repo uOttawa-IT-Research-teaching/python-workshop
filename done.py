@@ -1,7 +1,7 @@
 import requests
 import sys
 
-SERVER="https://206-167-181-43.cloud.computecanada.ca:8080"
+SERVER="https://play.jarno.ca:12080"
 
 def imdone(chapter, exercise):
     try:
